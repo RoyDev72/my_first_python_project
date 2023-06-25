@@ -82,4 +82,4 @@ while True:
             speak("Goodbye!")
             break
         else:
-            speak("Sorry, I didn't understand that so. Can you please repeat?")
+            speak("Sorry, I h didn't understand that so. Can you please repeat?")
